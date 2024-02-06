@@ -1,8 +1,13 @@
 {
   "name": "emoji-generator",
-  "version": "0.0.1",
-  "description": "Fun emoji for your projects",
+  "version": "1.0.0",
+  "description": "Fun women emoji for your projects",
+  "homepage": "https://www.npmjs.com/packages",
+  "repository": {
+    "url": "https://github.com/sdkdeepa/emoji-generatorbysdkdeepa"
+  },
   "main": "src/output.js",
+  
   "keywords": ["women",
     "emoji",
     "Fun"
