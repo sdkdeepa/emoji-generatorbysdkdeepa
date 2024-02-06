@@ -1,0 +1,17 @@
+{
+  "name": "emoji-generator",
+  "version": "0.0.1",
+  "description": "Fun emoji for your projects",
+  "main": "src/output.js",
+  "keywords": ["women",
+    "emoji",
+    "Fun"
+  ],
+  "author": "Deepa Subramanian",
+  "license": "MIT",
+  "dependencies": {
+    "install": "^0.13.0",
+    "node-emoji": "^2.1.3",
+    "npm": "^10.4.0"
+  }
+}
