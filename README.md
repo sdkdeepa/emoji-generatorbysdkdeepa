@@ -8,9 +8,9 @@ This npm package allows you to generate a list of emojis specifically curated fo
 You can install the Women's Emoji Generator npm package using npm or yarn:
 
 ```bash
-    npm install womens-emoji-generator 
+    npm install emoji-generatorbysdkdeepa 
 
-    yarn add womens-emoji-generator
+    yarn add emoji-generatorbysdkdeepa
 ```
 # Usage
 To use the Women's Emoji Generator in your project, simply import the generateWomenDayEmojiList function and call it with the number of emojis you want to generate:
